@@ -1,0 +1,35 @@
+method refrences:
+===================
+It is used to reuse the existing method instead of giving new same definition which other method has.
+Note:Only works with Functional interfaces.
+Some rules:
+===========
+1.method can be static(className::methodName) or instance method(new className()::methodName).
+2.Any modifier in same class but public instance method in any class od any pkg.
+3.Any return types.
+4.Number of argument and typesof argument should be same.
+
+
+
+Constructor references:
+=========================
+when to use:
+==============
+Constructor references should use when functional interface abstract method returns class
+
+syntax:
+========
+ClassName::new
+
+
+Note:System.out.println
+
+where::
+System::final class System
+out::final static PrintStream out
+println::Instance method of PrintStream class
+
+
+So we can write it as::System.out::println
+
+this is referencing instance method of PrintStreamclass with ref out.
