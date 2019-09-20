@@ -13,6 +13,8 @@ class InterfaceImpl implements Interf1 {
 			String departanme) {
 		Student student = new Student(id, name, lastName, departanme);
 		return student;
+		
+		
 	}
 
 }
