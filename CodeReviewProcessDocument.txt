@@ -16,4 +16,6 @@ Note:Reviewer can comment and add change request,then corresponding mail will tr
 2.Choose the option for Team and Select pull.
 3.On successful Pull from Remote Branch. Then again repeat step 1  and Choose Team option then commit .
 4.Please check properly your changed file and their location.
-5. If Everything is fine the Write for why u changed the file and commit and push.
+5.If Everything is fine the Write for why u changed the file and commit and push.
+
+#Using CommandLine
