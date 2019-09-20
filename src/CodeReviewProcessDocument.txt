@@ -18,4 +18,19 @@ Note:Reviewer can comment and add change request,then corresponding mail will tr
 4.Please check properly your changed file and their location.
 5.If Everything is fine the Write for why u changed the file and commit and push.
 
-#Using CommandLine
+####################################################################################################################################
+
+
+Test cases:
+=============
+Mokito
+=======
+Junit vs mokito
+@Mock vs@InjectMock vs @spy
+=============================
+1.Add the dependancy.
+2.@RunWith(MockitoJUnitRunner.class)
+3.@Test:on the Top of  method which is test case
+4.@Before:Some common concept which will use for all Tst cases.
+5.@Mock:
+6.@InjectMock:
