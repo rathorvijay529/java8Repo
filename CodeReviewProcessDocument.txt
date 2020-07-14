@@ -1,9 +1,0 @@
-1.Developer will checking (Push ) code into their local repository(Restricted Branch).
-2.Raise the PR for main branch(master)(Restricted Branch)
-3.Adding Reviewer
-4.Adding approvers
-
-
-
-Note:Reviewer can comment and add change request,then corresponding mail will triggered to respective developer who raised PR.
-2.Reviever can approve the changes and merge th PR also.

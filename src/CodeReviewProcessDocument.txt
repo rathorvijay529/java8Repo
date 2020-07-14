@@ -1,0 +1,36 @@
+1.Developer will checking (Push ) code into their local repository(Restricted Branch).
+2.Raise the PR for main branch(master)(Restricted Branch)
+3.Adding Reviewer
+4.Adding approvers
+
+
+
+Note:Reviewer can comment and add change request,then corresponding mail will triggered to respective developer who raised PR.
+2.Reviever can approve the changes and merge th PR also.
+
+
+
+####################################################################################################################################
+#Using Eclipse
+1.Right click on your project.
+2.Choose the option for Team and Select pull.
+3.On successful Pull from Remote Branch. Then again repeat step 1  and Choose Team option then commit .
+4.Please check properly your changed file and their location.
+5.If Everything is fine the Write for why u changed the file and commit and push.
+
+####################################################################################################################################
+
+
+Test cases:
+=============
+Mokito
+=======
+Junit vs mokito
+@Mock vs@InjectMock vs @spy
+=============================
+1.Add the dependancy.
+2.@RunWith(MockitoJUnitRunner.class)
+3.@Test:on the Top of  method which is test case
+4.@Before:Some common concept which will use for all Tst cases.
+5.@Mock:
+6.@InjectMock:
